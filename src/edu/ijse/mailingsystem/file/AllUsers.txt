@@ -1,0 +1,4 @@
+UI00001#freedom_fighter#dulan#wirajith#12345#admin
+UI00002#kotiya#uditha#sampath#111#User
+UI00003#phoenix#jithma;#asela#1234#user
+UI00004#pachaya#janith#ganewatta#1234#user
